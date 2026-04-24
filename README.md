@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hello Everyone!
 
-<!--
-**rakshit8904-lang/rakshit8904-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
+I'm **Urnisa Rakshit**, a **B.Tech student in Artificial Intelligence & Data Science** 👨‍💻
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am passionate about how **Artificial Intelligence is revolutionizing the future** — from prediction systems to minimizing errors in complex real-world problems.
+
+I am also a **learner in IoT, Web Systems, and Backend Development**, exploring how software integrates with hardware and real-time applications.
+
+---
+
+## 🧠 Areas of Interest
+
+* 🧮 Mathematical & Statistical Problem Solving
+* ⚛️ Quantum Algorithms
+* 🤖 Artificial Intelligence
+* 🧠 AI in Healthcare & Neuroscience
+* 🌐 Web Systems & Backend Development
+* 📡 Internet of Things (IoT)
+
+---
+
+## 💻 Technical Skills
+
+* 🚀 C++
+* 🐍 Python
+* ☕ Java
+* 📐 MATLAB
+
+---
+
+## 🎯 What I’m Exploring
+
+* Building **intelligent systems using AI**
+* Developing **IoT-based smart applications**
+* Learning **backend technologies and APIs**
+* Applying AI in **medical prediction and healthcare systems**
+
+---
+
+## ⚡ Vision
+
+I aim to combine:
+**AI + IoT + Healthcare + Backend Systems**
+to build impactful and scalable real-world solutions.
+
+---
+
+## 🌟 Let’s Connect
+
+I’m always open to learning, collaboration, and innovative ideas 🚀
+
+---
